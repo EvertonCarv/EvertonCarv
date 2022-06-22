@@ -1,11 +1,11 @@
 ## Hello! I'm the Everton de Carvalho
 
-- 🎓 I’m currently studying Ciência da Computação in Unimetrocamp.
-- 💻 I love writing code and learn anythings about it.
+- 🎓 I’m currently studying Computer Science at Unimetrocamp.
+- 💻 I love writing code and learn anything about it.
 - 📚 I’m currently learning C#.
 - 💬 Ask me anything about from Here
 - 📫 How to reach me: everton.de.carvalho@hotmail.com.br
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/EvertonCarv">
