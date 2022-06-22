@@ -5,7 +5,7 @@
 - 📚 I’m currently learning C#.
 - 💬 Ask me anything about from Here
 - 📫 How to reach me: everton.de.carvalho@hotmail.com.br
-- 😄 Pronouns: He/His
+- 😄 Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/EvertonCarv">
